@@ -1,0 +1,9 @@
+{
+  "name": "9",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "inquirer": "^9.1.5",
+    "markdown-it": "^13.0.1"
+  }
+}
